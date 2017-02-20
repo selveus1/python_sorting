@@ -1,4 +1,4 @@
-''' Selection sort is a simple sort in which an array or list is divided into 2 sectons : sorted and unsorted. The
+''' Selection sort is a simple sort in which an array or list is divided into 2 sections : sorted and unsorted. The
 minimum value is searched for and found in the unsorted section and added to the sorted section. '''
 
 # simple selection sort for ascending order
