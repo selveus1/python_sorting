@@ -58,6 +58,7 @@ def shell_sort_dsc(nums):
             gap = int(gap/2.2)
 
 
+### main program
 nums = [54,26,93,17,77,31,44,55,20]
 shell_sort_asc(nums)
 print(nums)

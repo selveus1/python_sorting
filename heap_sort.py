@@ -57,12 +57,10 @@ def swap(nums, parent, child):
     nums[child] = tmp
 
 
-
 def heapsort_dsc(nums):
 
     build_heap_dsc(nums)
     shrink_heap_dsc(nums)
-
 
 
 def build_heap_dsc(nums):
@@ -105,10 +103,7 @@ def shrink_heap_dsc(nums):
                 break
 
 
-
-
-
-
+### main program
 nums = [54,26,93,17,77,31,44,55,20]
 heapsort(nums)
 print(nums)

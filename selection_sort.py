@@ -59,6 +59,7 @@ def better_selection_sort_dsc(nums):
             nums[min_val] = temp
 
 
+### main program
 nums = [54,26,93,17,77,31,44,55,20]
 selection_sort_asc(nums)
 print(nums)

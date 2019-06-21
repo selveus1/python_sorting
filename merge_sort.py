@@ -91,8 +91,7 @@ def merge_dsc(nums, left, right):
         k = k+1
 
 
-
-
+### main program
 nums = [54,26,93,17,77,31,44,55,20]
 merge_sort_asc(nums)
 print(nums)

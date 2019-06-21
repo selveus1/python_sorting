@@ -29,7 +29,7 @@ def insertion_sort_dsc(nums):
         nums[next_position] = next_value
 
 
-
+### main program
 nums = [54,26,93,17,77,31,44,55,20]
 insertion_sort_asc(nums)
 print(nums)
